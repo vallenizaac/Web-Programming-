@@ -1,0 +1,41 @@
+.my-button {
+    width: 100px;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 30px;
+  }
+  
+  .button-warning {
+    background-color: burlywood;
+  }
+  
+  .my-button-large {
+    width: 200px;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 30px;
+  }
+
+  .login-container{
+    margin-left: 700px;
+    padding-left: 100;
+  }
+
+  .row {
+    margin-bottom: 20px;
+  }
+  .row .row {
+    margin-top: 10px;
+    margin-bottom: 0;
+  }
+
+  .container
+  {
+    padding-top: 20px;
+  }
+
+h2 {
+  margin-left: 440px;
+  margin-top: 200px;
+
+}
